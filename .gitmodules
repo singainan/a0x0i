@@ -1,3 +1,0 @@
-[submodule "src/torch-mlir"]
-	path = src/torch-mlir
-	url = https://github.com/ankurvdev/torch-mlir
